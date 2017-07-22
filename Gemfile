@@ -9,6 +9,7 @@ gem 'haml'
 gem 'simple_form'
 gem 'bootstrap-sass'
 gem 'paperclip'
+gem 'cocoon'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.2'
 # Use sqlite3 as the database for Active Record
